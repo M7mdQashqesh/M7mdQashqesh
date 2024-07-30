@@ -7,13 +7,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=M7mdQashqesh&label=Profile%20views&color=0e75b6&style=flat" alt="M7mdQashqesh" /> </p>
 
 
-- 🔭 I’m currently working on [AES-Crypto](https://github.com/M7mdQashqesh/AES)
+- 🔭 I’m currently working on **HTML & CSS Projects**
 
 - 🌱 I’m currently learning **JavaScript, React**
 
 - 👯 I’m looking to collaborate on **front-end projects**
 
-- 📫 How to reach me **mohammedbelal601@gmail.com**
+- 📫 How to reach me **mo.qashqesh@gmail.com**
 
 - ⚡ Fun fact **teamwork**
 
@@ -22,7 +22,7 @@
 <a href="https://github.com/M7mdQashqesh" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/mohammed-qashqesh-35098b2bb" target="_blank">
+<a href="https://www.linkedin.com/in/mohammed-qashqesh/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/mohammed.belal.395" target="_blank">
