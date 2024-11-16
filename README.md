@@ -7,11 +7,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=M7mdQashqesh&label=Profile%20views&color=0e75b6&style=flat" alt="M7mdQashqesh" /> </p>
 
 
-- 🔭 I’m currently working on **HTML & CSS Projects**
+- 🔭 I’m currently working on **JavaScript Projects**
 
-- 🌱 I’m currently learning **JavaScript, React**
+- 🌱 I’m currently learning **JavaScript, React, and Next Js**
 
-- 👯 I’m looking to collaborate on **front-end projects**
+- 👯 I’m looking to collaborate on **Front-end Projects**
 
 - 📫 How to reach me **mo.qashqesh@gmail.com**
 
@@ -19,16 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/M7mdQashqesh" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.linkedin.com/in/mohammed-qashqesh/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/mohammed.belal.395" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/m7md_qash" target="_blank">
+<a href="https://instagram.com/m7md.coder" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 </p>
