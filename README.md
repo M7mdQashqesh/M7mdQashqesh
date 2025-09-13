@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mo.qashqesh@gmail.com**
 
-⚡ Fun fact: I enjoy teamwork and building projects with others
+- ⚡ Fun fact: I enjoy teamwork and building projects with others
 
 ###
 
