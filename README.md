@@ -1,44 +1,66 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mohammed Qashqesh</h1>
-<h3 align="center">Computer Systems Engineering Student @ PPU | Aspiring Frontend Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">Frontend Web Developer Using ReactJs</h3>
 
+###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=M7mdQashqesh&label=Profile%20views&color=0e75b6&style=flat" alt="M7mdQashqesh" /> </p>
+- 🔭 I’m currently working on **React Projects**
 
-
-- 🔭 I’m currently working on **JavaScript Projects**
-
-- 🌱 I’m currently learning **JavaScript, React, and Next Js**
+- 🌱 I’m currently learning **Next.js, and React Native**
 
 - 👯 I’m looking to collaborate on **Front-end Projects**
 
 - 📫 How to reach me **mo.qashqesh@gmail.com**
 
-- ⚡ Fun fact **teamwork**
+⚡ Fun fact: I enjoy teamwork and building projects with others
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mohammed-qashqesh/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<br />
-<br />
- 
-<a href="https://instagram.com/m7md.coder" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-</p>
+###
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M7mdQashqesh&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/40mllc.png"  />
+
+###
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
- <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/374171/vscode.svg" alt="VSCode" height="50" /></a>
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M7mdQashqesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=M7mdQashqesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=M7mdQashqesh&theme=dark&hide_border=false" alt="GitHub Streak" /></p>
+<div align="left">
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
+</div>
+
+###
+
+<h3 align="left">Contact With Me:</h3>
+<div align="left">
+  <a href="https://www.instagram.com/m7md.coder" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/mohammed-qashqesh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mo.qashqesh@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+###
